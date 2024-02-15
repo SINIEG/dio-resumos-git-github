@@ -9,7 +9,7 @@ do cuurso versionamento de código com Git e Github da
 
 |Aulas | Resumos |
 |-------|-------|
-|Gravando Alterações no Repositorio Local| [resumos] ()|
+|Gravando Alterações no Repositorio Local| [resumo] ()|
 
 
 ## 🔍 Referencias
