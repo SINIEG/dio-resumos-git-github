@@ -8,7 +8,8 @@ do cuurso versionamento de código com Git e Github da
 ## 👨‍💻 Resumos das Aulas
 
 |Aulas | Resumos |
-|-------|-------|
+|aula 1 | aula 2
+-------|-------|
 |Gravando Alterações no Repositorio Local| [resumo] ()|
 
 
